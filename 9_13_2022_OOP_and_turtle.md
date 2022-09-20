@@ -12,6 +12,14 @@
 
 * substrings - a section of an existing string
 
+* commenting in python - makes a line of code just visual, not interpreted.
+
+```python
+  # print("hellow world") -> this will not run
+```
+
+* objects in OOP- objects are instances of a class "blueprint". They are representations of a physical or abstract object, and you can interact with them in all the ways defined by the class. You do this by sending it messages, or calling its methods, like ``.method(1, 2)`` to call the object's `method` method with args `(1, 2)`
+
 ## Conclusion questions
 
 1. What is the difference between the input and output of a program, and how can one affect the other? Give an example using Python code.
