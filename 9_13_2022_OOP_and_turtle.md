@@ -30,6 +30,8 @@ Input is how a person can interact with the program. The examples given in this 
     print(input("What is your name")) # prompts for input via the command line, then prints it back.
 ```
 
+Output is how the program communicates back to the user, via text, displaying something to the screen, etc. 
+
 2. Is there only one way to solve a problem? Explain and give an example using Python turtle.
 
 Of course not, there is almost always many ways to approach a problem. For example, there is many ways a
