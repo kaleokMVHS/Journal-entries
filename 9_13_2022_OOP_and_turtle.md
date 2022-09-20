@@ -2,7 +2,7 @@
 
 * Input and output- Ways to interact and communicate with the user. Can be done by printing to console, displaying or drawing an image, triggering physical machines (output), or receiving text input, mouse movement, external sensors, etc (input).
 
-* print function - 
+* print function - prints the given string to console
 
     ```python
       print("hello") # -> hello
